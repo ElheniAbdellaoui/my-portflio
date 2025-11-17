@@ -74,8 +74,8 @@ export const About = () => {
                 2023-march 2024 )
               </li>
               <li>
-                <strong>Master ininterior architecture </strong>ISAM ( 2023-
-                2025 )
+                <strong>Master ininterior architecture </strong>ISAM( 2023- 2025
+                )
               </li>
             </ul>
           </div>
